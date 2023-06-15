@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.image{
+	display:inline;
+}
+
+img{
+	height:100px;
+	width:90px;
+}
+
